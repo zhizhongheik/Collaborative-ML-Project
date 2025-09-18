@@ -1,3 +1,3 @@
 # Collaborative-ML-Project
 
-For class work 1
+For class task 1
